@@ -2,4 +2,4 @@
 
 Sample repository with an HTTP Api function to display how to use GitHub Actions badges.
 
-Link to full blog post here [GitHub - How to display the status badge for a GitHub Action](https://elbruno.github.io/AzureApiBadge/)
+Link to full blog post here [GitHub - How to display the status badge for a GitHub Action](https://elbruno.com/2022/07/04/github-how-to-display-the-status-badge-for-a-github-action-%f0%9f%9f%a2%f0%9f%94%b4/)
