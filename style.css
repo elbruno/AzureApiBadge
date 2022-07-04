@@ -1,0 +1,19 @@
+/* Sample code for a simple CSS style sheet. */
+.container {
+  width: 100%;
+  height: 100%;
+  background-color: #f2f2f2;
+  position: relative;
+}
+.header
+{
+    background-color: #f1f1f1;
+    padding: 30px;
+    text-align: center;
+}
+.content
+{
+    background-color: #f1f1f1;
+    padding: 30px;
+    text-align: center;
+}
